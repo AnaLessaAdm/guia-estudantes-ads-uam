@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner-ads.png">
-</p>
+<img src="banner-ads.png">
 
 # 📚 Manual Acadêmico – Análise e Desenvolvimento de Sistemas
 
