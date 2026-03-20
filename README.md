@@ -1,4 +1,6 @@
-![Manual ADS](banner-ads-png.png)
+<p align="center">
+  <img src="banner-ads.png">
+</p>
 
 # 📚 Manual Acadêmico – Análise e Desenvolvimento de Sistemas
 
