@@ -4,124 +4,198 @@
 
 ---
 
-## 🎯 Objetivo do Projeto
+# 📚 Manual Acadêmico – Estudante de Análise e Desenvolvimento de Sistemas
 
-Este projeto foi desenvolvido como parte de um desafio da DIO utilizando IA como ferramenta de estudo através do NotebookLM.
-
-O objetivo foi organizar informações importantes que geraram dúvidas reais entre os alunos do curso de **Análise e Desenvolvimento de Sistemas**, como:
-
-- Como funciona o projeto presencial Dream Shaper
-- Como enviar horas complementares
-- Como funciona o sistema de notas
-- Orientações acadêmicas importantes
-
-A ideia foi transformar essas informações em um material simples e fácil de consultar.
+> Caderno temático criado no NotebookLM para organizar informações acadêmicas importantes da graduação e ajudar alunos com dúvidas frequentes.
 
 ---
 
-## 🧠 Temas abordados
+# 🎯 Contexto e Objetivos
 
-## 📖 Projeto Dream Shaper
+Este projeto foi desenvolvido como parte do desafio da DIO com o objetivo de utilizar Inteligência Artificial como ferramenta de aprendizagem ativa através do NotebookLM.
 
-O Dream Shaper é um projeto acadêmico presencial que faz parte das atividades obrigatórias do curso.
+O tema escolhido foi a criação de um **manual acadêmico para estudantes de Análise e Desenvolvimento de Sistemas**, baseado em dúvidas reais dos alunos da graduação.
 
-### Principais dúvidas dos alunos:
+## Objetivos do material:
+
+- Organizar informações acadêmicas importantes
+- Documentar orientações sobre o projeto Dream Shaper
+- Explicar como funcionam as horas complementares
+- Esclarecer o sistema de notas
+- Criar um material de consulta rápida para estudantes
+- Aplicar IA como ferramenta de organização de conhecimento
+
+---
+
+# 📖 Curadoria de Fontes
+
+Fontes utilizadas no NotebookLM:
+
+1 – Manual do aluno (portal acadêmico da faculdade)
+
+2 – Regulamento de horas complementares
+
+3 – Informações institucionais sobre o projeto Dream Shaper
+
+4 – Orientações acadêmicas sobre sistema de avaliação
+
+5 – Materiais fornecidos pelos professores
+
+*(Caso queira, você pode colocar PDF ou prints dessas informações no repositório)*
+
+---
+
+# 🤖 Engenharia de Prompts e Cicatrizes
+
+Durante o desenvolvimento do material foram testados diferentes prompts para melhorar a organização das informações.
+
+## Prompt inicial:
+
+Explique como funciona a graduação de Análise e Desenvolvimento de Sistemas.
+
+### Problema:
+
+Resposta muito genérica e pouco útil.
+
+---
+
+## Prompt refinado:
+
+Organize informações acadêmicas importantes para estudantes de ADS incluindo:
+
+- Projetos obrigatórios
+- Sistema de notas
+- Horas complementares
+
+### Resultado:
+
+Resposta mais estruturada.
+
+---
+
+## Prompt otimizado:
+
+Crie um guia simples baseado nas seguintes informações acadêmicas:
+(proporcionar contexto)
+
+### Resultado:
+
+Material mais claro e organizado.
+
+---
+
+## Dificuldades encontradas:
+
+- Necessidade de dar mais contexto para IA
+- Informações muito amplas
+- Necessidade de refinar prompts
+
+## Aprendizados:
+
+- Prompts específicos geram respostas melhores
+- Contexto melhora a qualidade
+- Estrutura melhora compreensão
+
+---
+
+# 📘 Miniguia Acadêmico (Resultado Final)
+
+# 📖 Projeto Dream Shaper
+
+Projeto acadêmico presencial obrigatório do curso.
+
+## Informações importantes:
+
+- Projeto realizado em grupo
+- Avaliação baseada em entregas e apresentação
+- Faz parte da composição da nota
+- Exige participação ativa
+
+## Principais dúvidas resolvidas:
 
 - Como funciona o projeto
-- Como ocorre a avaliação
-- Prazos de entrega
-- Critérios avaliativos
-
-### Objetivo do manual:
-
-Centralizar essas informações para facilitar o entendimento dos alunos.
+- Critérios de avaliação
+- Importância para a nota final
 
 ---
 
-## ⏱️ Horas Complementares
+# ⏱️ Horas Complementares
 
-As horas complementares são obrigatórias para conclusão do curso.
+Atividades obrigatórias para conclusão do curso.
 
-### Como enviar:
+## Como enviar:
 
-- Acessar o portal do aluno
+- Acessar portal acadêmico
 - Fazer upload do certificado
-- Aguardar validação da instituição
+- Aguardar validação
 
-### Exemplos aceitos:
+## Exemplos aceitos:
 
-- Cursos online
-- Eventos acadêmicos
-- Palestras
-- Certificações
+- Cursos
+- Eventos
 - Workshops
-
-### Dica:
-
-Organizar todos certificados em uma pasta digital.
+- Certificações
 
 ---
 
-## 📊 Sistema de Notas
+# 📊 Sistema de Notas
 
-O manual também organiza informações sobre avaliação acadêmica.
+## Informações importantes:
 
-### Informações importantes:
-
-- Como as notas são calculadas
-- Média necessária para aprovação
+- Média mínima para aprovação
 - Peso das atividades
 - Trabalhos obrigatórios
-- Recuperação
+- Avaliações semestrais
 
 ---
 
-## 🤖 Uso da Inteligência Artificial
+# 📚 Glossário
 
-A IA foi utilizada para:
+**Horas Complementares**  
+Atividades extracurriculares obrigatórias.
 
-- Organizar as informações
-- Criar resumos
-- Estruturar o conteúdo
-- Melhorar a clareza do material
+**Projeto Integrador**  
+Projeto prático aplicado durante o curso.
 
----
+**Média Acadêmica**  
+Nota mínima necessária para aprovação.
 
-## ⚠️ Dificuldades encontradas
-
-Durante o desenvolvimento:
-
-- Informações espalhadas em diferentes lugares
-- Dúvidas recorrentes dos alunos
-- Falta de material organizado
-
-### Solução:
-
-Criar um guia centralizado com as principais informações acadêmicas.
+**Portal do Aluno**  
+Sistema acadêmico da instituição.
 
 ---
 
-## 🚀 Resultado
+# 🧠 Prompts Reutilizáveis
 
-O resultado foi um manual prático que pode ajudar estudantes a:
+Prompts que podem ajudar outros estudantes:
 
-- Entender melhor os projetos do curso
-- Organizar horas complementares
-- Compreender o sistema de avaliação
-- Evitar dúvidas comuns
+Organize essas informações acadêmicas em formato de guia.
+
+Resuma essas regras acadêmicas de forma simples.
+
+Explique esse regulamento como um manual do estudante.
+
+Transforme essas informações em checklist.
 
 ---
 
-## 👩‍💻 Autor
+# 🚀 Conclusão
 
-Ana Lessa
+Este projeto demonstrou como a Inteligência Artificial pode ser utilizada como ferramenta de organização de conhecimento acadêmico.
 
+O material criado pode ajudar estudantes a entender melhor os processos da graduação e reduzir dúvidas comuns.
+
+Além disso, o projeto contribuiu para o desenvolvimento de habilidades como:
+
+- Organização de informação
+- Engenharia de prompts
+- Documentação técnica
+- Uso prático de IA
+
+---
+
+# 👩‍💻 Autor
+
+Ana Lessa  
 Estudante de Análise e Desenvolvimento de Sistemas  
-Projeto desenvolvido como parte do desafio DIO  
-Material criado para apoiar estudantes da graduação
-
----
-
-## ⭐ Projeto acadêmico
-
-Material criado com apoio de Inteligência Artificial para organização de informações acadêmicas.
+Projeto desenvolvido para o desafio DIO
