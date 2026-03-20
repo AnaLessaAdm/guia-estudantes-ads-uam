@@ -39,9 +39,7 @@ Fontes utilizadas no NotebookLM:
 
 4 – Orientações acadêmicas sobre sistema de avaliação
 
-5 – Materiais fornecidos pelos professores
 
-*(Caso queira, você pode colocar PDF ou prints dessas informações no repositório)*
 
 ---
 
@@ -76,7 +74,8 @@ Resposta mais estruturada.
 ## Prompt otimizado:
 
 Crie um guia simples baseado nas seguintes informações acadêmicas:
-(proporcionar contexto)
+(Proporcionar contexto)
+
 
 ### Resultado:
 
@@ -106,7 +105,6 @@ Projeto acadêmico presencial obrigatório do curso.
 
 ## Informações importantes:
 
-- Projeto realizado em grupo
 - Avaliação baseada em entregas e apresentação
 - Faz parte da composição da nota
 - Exige participação ativa
