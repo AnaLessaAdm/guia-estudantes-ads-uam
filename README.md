@@ -1,4 +1,4 @@
-![Manual ADS](banner.png)
+![Manual ADS](banner-ads-png.png)
 
 # 📚 Manual Acadêmico – Análise e Desenvolvimento de Sistemas
 
