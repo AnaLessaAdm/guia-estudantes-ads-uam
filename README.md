@@ -1,8 +1,3 @@
-# 📚 Manual do Estudante de Análise e Desenvolvimento de Sistemas
-
-> Guia criado para ajudar estudantes de ADS da minha graduação com dúvidas frequentes sobre projetos acadêmicos, horas complementares e sistema de notas.
-
----
 
 # 📚 Manual Acadêmico – Estudante de Análise e Desenvolvimento de Sistemas
 
