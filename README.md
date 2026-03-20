@@ -1,4 +1,6 @@
-<img src="banner-ads.png">
+<p align="center">
+  <img src="https://github.com/AnaLessaAdm/guia-estudantes-ads-uam/raw/f51322a48510d4fa9aef701accf3d322e6c09d6a/banner-ads.png" width="100%">
+</p>
 
 # 📚 Manual Acadêmico – Análise e Desenvolvimento de Sistemas
 
