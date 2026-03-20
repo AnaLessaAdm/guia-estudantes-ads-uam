@@ -1,3 +1,4 @@
+banner-ads-png.png 
 
 # 📚 Manual Acadêmico – Análise e Desenvolvimento de Sistemas
 
